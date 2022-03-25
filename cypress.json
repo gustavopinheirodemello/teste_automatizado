@@ -1,0 +1,5 @@
+{
+    "baseUrl": "https://beta.coodesh.com",
+    "experimentalSourceRewriting": true,          
+    "watchForFileChanges": false                       
+}
